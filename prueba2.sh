@@ -6,8 +6,8 @@ echo "¡Hola! Esta es una prueba bien chida."
 # Inicializamos la variable para la suma
 suma=0
 
-# Bucle for que cuenta del 1 al 5
-for i in {1..5}
+# Bucle for que cuenta del 1 al 10
+for i in {1..10}
 do
     echo "Iteración número: $i"
     
