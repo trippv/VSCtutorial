@@ -5,7 +5,7 @@ echo "¡Hola, este es un script de prueba en Bash!"
 
 # Suma de dos números
 num1=5
-num2=10
+num2=20
 suma=$((num1 + num2))
 
 echo "La suma de $num1 y $num2 es: $suma"
